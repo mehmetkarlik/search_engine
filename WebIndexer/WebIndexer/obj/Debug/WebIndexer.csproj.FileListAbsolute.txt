@@ -1,0 +1,13 @@
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebIndexer\WebIndexer\bin\Debug\WebIndexer.exe.config
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebIndexer\WebIndexer\bin\Debug\WebIndexer.exe
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebIndexer\WebIndexer\bin\Debug\WebIndexer.pdb
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebIndexer\WebIndexer\obj\Debug\WebIndexer.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebIndexer\WebIndexer\obj\Debug\WebIndexer.Form1.resources
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebIndexer\WebIndexer\obj\Debug\WebIndexer.Properties.Resources.resources
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebIndexer\WebIndexer\obj\Debug\WebIndexer.csproj.GenerateResource.cache
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebIndexer\WebIndexer\obj\Debug\WebIndexer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebIndexer\WebIndexer\obj\Debug\WebIndexer.exe
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebIndexer\WebIndexer\obj\Debug\WebIndexer.pdb
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebIndexer\WebIndexer\bin\Debug\MySql.Data.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebIndexer\WebIndexer\bin\Debug\MySql.Data.xml
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebIndexer\WebIndexer\obj\Debug\WebIndexer.csproj.CopyComplete

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebIndexer", "WebIndexer\WebIndexer.csproj", "{6B263F7A-8A81-4934-BB0E-4AEB75C6A5DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B263F7A-8A81-4934-BB0E-4AEB75C6A5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B263F7A-8A81-4934-BB0E-4AEB75C6A5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B263F7A-8A81-4934-BB0E-4AEB75C6A5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B263F7A-8A81-4934-BB0E-4AEB75C6A5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C002D1A0-2C67-46F7-A13A-A11CACA3B1C7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+c:\users\mehmet\source\repos\PageRankCalculator\PageRankCalculator\bin\Debug\PageRankCalculator.exe.config
+c:\users\mehmet\source\repos\PageRankCalculator\PageRankCalculator\bin\Debug\PageRankCalculator.exe
+c:\users\mehmet\source\repos\PageRankCalculator\PageRankCalculator\bin\Debug\PageRankCalculator.pdb
+c:\users\mehmet\source\repos\PageRankCalculator\PageRankCalculator\bin\Debug\MySql.Data.dll
+c:\users\mehmet\source\repos\PageRankCalculator\PageRankCalculator\bin\Debug\MySql.Data.xml
+c:\users\mehmet\source\repos\PageRankCalculator\PageRankCalculator\obj\Debug\PageRankCalculator.csprojResolveAssemblyReference.cache
+c:\users\mehmet\source\repos\PageRankCalculator\PageRankCalculator\obj\Debug\PageRankCalculator.csproj.CoreCompileInputs.cache
+c:\users\mehmet\source\repos\PageRankCalculator\PageRankCalculator\obj\Debug\PageRankCalculator.csproj.CopyComplete
+c:\users\mehmet\source\repos\PageRankCalculator\PageRankCalculator\obj\Debug\PageRankCalculator.exe
+c:\users\mehmet\source\repos\PageRankCalculator\PageRankCalculator\obj\Debug\PageRankCalculator.pdb

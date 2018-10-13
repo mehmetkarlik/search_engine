@@ -1,0 +1,94 @@
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\DnsClient.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Controls.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\MySql.Data.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\System.Buffers.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.Client.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\DnsClient.xml
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\MongoDB.Driver.xml
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\bin\Debug\MySql.Data.xml
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe.config
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Properties.Resources.resources
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.GenerateResource.cache
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+C:\Users\Mehmet\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\DnsClient.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\MySql.Data.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\System.Buffers.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.Client.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\DnsClient.xml
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\MongoDB.Driver.xml
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\bin\Debug\MySql.Data.xml
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe.config
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Properties.Resources.resources
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.GenerateResource.cache
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
+C:\Users\Mehmet\Documents\Visual Studio 2017\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Form1.resources
